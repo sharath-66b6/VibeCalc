@@ -2,7 +2,7 @@
 
 A fun, interactive calculator where you can not only perform basic arithmetic operations but also change the background images to add some color and personality to your calculations! 
 
-![Calculator Screenshot](C:\Users\user\OneDrive\Pictures\Screenshots\Screenshot 2024-11-07 024656.png)
+![Calculator Screenshot](C:\Users\user\OneDrive\Pictures\Screenshots\Screenshot_2024-11-07_024656.png)
 
 ## Features
 - **Basic Operations**: Supports addition, subtraction, multiplication, and division.
