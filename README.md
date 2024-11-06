@@ -2,11 +2,12 @@
 
 A fun, interactive calculator where you can not only perform basic arithmetic operations but also change the background images to add some color and personality to your calculations! 
 
+
+![Calculator Screenshot](Calculator.png)
+
 ## Try it out! 🚀
 
-You can test the calculator live here: [Funny Calculator](https://github.com/sharath-66b6/VibeCalc/index.html)
-
----
+You can test the calculator live here: [Funny Calculator](https://sharath-66b6.github.io/VibeCalc/index.html)
 
 ## Features
 - **Basic Operations**: Supports addition, subtraction, multiplication, and division.
