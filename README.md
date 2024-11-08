@@ -7,7 +7,7 @@ A fun, interactive calculator where you can not only perform basic arithmetic op
 
 ## Try it out! 🚀
 
-You can test the calculator live here: [Funny Calculator](https://sharath-66b6.github.io/VibeCalc/index.html)
+You can test the calculator live here: [Funny Calculator](https://vibecalculator.netlify.app/)
 
 ## Features
 - **Basic Operations**: Supports addition, subtraction, multiplication, and division.
