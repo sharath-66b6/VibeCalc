@@ -15,7 +15,6 @@ body {
     background-color: hsl(0, 0%, 15%);
     border-radius: 15px;
     overflow: hidden;
-    width: 80%;
     max-width: 500px;
     margin: 0 auto;
 }
