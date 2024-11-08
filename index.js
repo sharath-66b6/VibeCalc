@@ -7,7 +7,7 @@ const backgrounds = [
     'https://images.hdqwalls.com/download/3d-render-flower-5k-ma-1336x768.jpg',
     'https://images.hdqwalls.com/download/3d-cube-art-4k-j0-1336x768.jpg'
 ];
-let currentBackgroundIndex = 1;
+let currentBackgroundIndex = 0;
 
 function appendToDisplay(input) {
     display.value += input;
@@ -29,3 +29,4 @@ function changeBackground() {
     currentBackgroundIndex = (currentBackgroundIndex + 1) % backgrounds.length;
     document.body.style.backgroundImage = `url(${backgrounds[currentBackgroundIndex]})`;
 }
+export default changeBackground;
